@@ -1,4 +1,4 @@
-# Unix-IPC-with-Python
+# Unix-IPC-in-Python
 
 Qui potete trovare alcuni codici di esempio e mie personali documentazioni in italiano su come utilizzare i classici
 sistemi di IPC UNIX in linguaggio Python.
